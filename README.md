@@ -9,9 +9,9 @@ Step2 : Clone the forked repository into your machine, command : ```git clone "u
 Step3 : Add a new folder with your project name into root directory. root directory name is INT246 that will be 
 downloaded into your local machine when you clone the git
 
-Note: While you are uploading your project in the repository please add readme.md and mention properly about your problem statement and all supporting resouce 
+Note: While you are uploading your project in the repository please add readme.md and mention properly about your problem statement and all supporting resource 
 
-Example : 
+
 
 ### Folder structure
 
